@@ -47,8 +47,6 @@ button {
 
 .content {
   display: flex;
-  padding-top: 35px;
-  padding-bottom: 133px;
   column-gap: 30px;
 }
 
@@ -191,7 +189,7 @@ button:active {
 }
 
 .content__details {
-  max-width: 399px;
+  width: 399px;
 }
 
 .content__list-item {
